@@ -68,7 +68,7 @@ Cross-Sector Next-Day Stock Price Forecasting Dashboard for Philippine Stock Exc
 - Pandas
 
 Repository:
-- https://github.com/AlvinTubtub/pse-stock-price-forecasting-dashboard-capstone
+- https://github.com/AlvinTubtub/pse-stock-price-forecasting-dashboard-capstone](https://github.com/AlvinTubtub/streamlit-pse-stock-price-forecast-dashboard-automation
 
 ---
 
