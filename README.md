@@ -54,7 +54,7 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ## 📈 ForecastPH
 Cross-Sector Next-Day Stock Price Forecasting Dashboard for Philippine Stock Exchange companies.
@@ -69,6 +69,14 @@ Cross-Sector Next-Day Stock Price Forecasting Dashboard for Philippine Stock Exc
 
 Repository:
 - https://github.com/AlvinTubtub/streamlit-pse-stock-price-forecast-dashboard-automation
+
+---
+
+## 🏥 Healthcare SQL Data Cleaning
+SQL data cleaning project using MySQL Workbench on a synthetic healthcare dataset with duplicate removal, standardization, missing value handling, and validation.
+
+Repository:
+- https://github.com/AlvinTubtub/healthcare-sql-data-cleaning.git
 
 ---
 
@@ -91,24 +99,6 @@ Automated ETL pipeline for data processing and analytics.
 
 Repository:
 - https://github.com/AlvinTubtub/car-data-pipeline
-
----
-
-## 📄 PSE PDF OHLCV Extractor
-
-Python tool for extracting stock market data from PSE PDF reports.
-
-Repository:
-- https://github.com/AlvinTubtub/pse-pdf-ohlcv-extractor
-
----
-
-## 📈 PSE EDGE Data Scraper
-
-Automated scraper for collecting Philippine Stock Exchange disclosures.
-
-Repository:
-- https://github.com/AlvinTubtub/pse-edge-data-scraper
 
 ---
 
